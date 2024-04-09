@@ -19,7 +19,7 @@ This project is a Flask application integrated with Elasticsearch and OpenAI for
 
 - Similarity Search: The similarity search utilizes OpenAI embeddings along with Elasticsearch's cosine similarity to retrieve the top K most similar documents based on the provided query text.
 
-Requirements:
+## Requirements:
 - OpenAI API Account. Create an accounton the [OPENAI Signup Page](https://platform.openai.com/signup)
 
 - Start Elasticsearch.
