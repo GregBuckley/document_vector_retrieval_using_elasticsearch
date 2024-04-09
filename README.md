@@ -14,6 +14,9 @@ This project is a Flask application integrated with Elasticsearch and OpenAI for
 
  - Retrieve All Documents: Retrieves all document IDs stored in Elasticsearch.
 
+ - Retrieve Single Documents: Retrieves a particular document based on ID stored in Elasticsearch.
+
+
 ## Additional Description
 - Keyword Search: The keyword search functionality looks for exact words in the documents and returns the documents that contain these words. Additionally, it provides a more human response utilizing OpenAI assistant for better user interaction.
 
