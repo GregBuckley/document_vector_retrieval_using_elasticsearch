@@ -1,5 +1,3 @@
-Sure, here's an updated README.md file:
-
 # Project Title
 
 ## Overview
